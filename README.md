@@ -23,6 +23,18 @@ The technologies used to build the project are:
 - Color Picker
 - Cloudinary for image hosting
 
+
+##Explanation:
+
+The HTML code defines the basic structure of the collage, including two divs: one for the images and one for the text content.
+The CSS code styles the collage and the text content.
+The .collage class is used to style the grid container that holds the images.
+The grid-template-columns property defines the number of columns in the grid. In this case, we're using repeat(auto-fit, minmax(300px, 1fr)) to create a grid with as many columns as possible, but each column must be at least 300px wide and take up no more than one fraction of the available space.
+The gap property defines the spacing between the images.
+The .collage img selector styles the images in the collage.
+The .text-content class styles the text content below the collage.
+You can customize the styles in the CSS code to match your preferences.
+
 ## How to View
 
 This project is compatible to access in any of the browsers.
