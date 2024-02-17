@@ -43,8 +43,7 @@ This project is compatible to access in any of the browsers.
 
 project link:http://simplotel17.ccbp.tech
 
-google drive link: [https://docs.google.com/document/d/1ezZ-R5TfWsgEOEJDjnz6sL4muKx14yTBGPImTBmsl1U/edit
-](https://drive.google.com/file/d/1hpuuq-WDFSVOGA5Fycqpcs_bwzJ2juxa/view?usp=sharing)
+google drive link: https://drive.google.com/file/d/1hpuuq-WDFSVOGA5Fycqpcs_bwzJ2juxa/view?usp=sharing
 ### Local Installation
 
 1. Clone the repository.
